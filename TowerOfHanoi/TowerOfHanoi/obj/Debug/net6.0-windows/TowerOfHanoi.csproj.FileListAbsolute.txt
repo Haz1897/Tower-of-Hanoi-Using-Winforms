@@ -1,0 +1,17 @@
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\bin\Debug\net6.0-windows\TowerOfHanoi.exe
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\bin\Debug\net6.0-windows\TowerOfHanoi.deps.json
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\bin\Debug\net6.0-windows\TowerOfHanoi.runtimeconfig.json
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\bin\Debug\net6.0-windows\TowerOfHanoi.dll
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\bin\Debug\net6.0-windows\TowerOfHanoi.pdb
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.csproj.AssemblyReference.cache
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.Form1.resources
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.csproj.GenerateResource.cache
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.AssemblyInfoInputs.cache
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.AssemblyInfo.cs
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.dll
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\refint\TowerOfHanoi.dll
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.pdb
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\TowerOfHanoi.genruntimeconfig.cache
+C:\VSProjects\TowerOfHanoi\TowerOfHanoi\obj\Debug\net6.0-windows\ref\TowerOfHanoi.dll
